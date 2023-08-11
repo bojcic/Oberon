@@ -1,0 +1,6 @@
+Join us!
+Full Name:
+Email:
+Password:
+Confirm Password
+Register
